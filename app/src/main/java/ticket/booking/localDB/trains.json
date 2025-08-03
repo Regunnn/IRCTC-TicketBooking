@@ -1,0 +1,12 @@
+[
+  {
+    "trainId": "express01",
+    "trainNo": 11001,
+    "stations": ["bangalore", "chennai", "mumbai"]
+  },
+  {
+    "trainId": "express02",
+    "trainNo": 11002,
+    "stations": ["delhi", "kanpur", "kolkata"]
+  }
+]
